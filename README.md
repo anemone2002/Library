@@ -42,5 +42,12 @@ To run the application, you need to have the following installed on your machine
 * Hibernate
 MySQL or PostgreSQL
 
+# Port
+http://localhost:8089
+
+# Home Page
+The home page library. 
+![This is an image](Library/libralinhome.jpg)
+
 # Authors
 * Alina Bakytbek kyzy -  GitHub anemone2002
