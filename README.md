@@ -46,8 +46,16 @@ MySQL or PostgreSQL
 http://localhost:8089
 
 # Home Page
-The home page library. 
 ![This is an image](Library/libralinhome.jpg)
+
+# Available Books
+![This is an image](Library/ibralinavibooks.jpg)
+
+# My Books
+![This is an image](Library/addbook.jpg)
+
+# Add new Books
+![This is an image](Library/newbook.jpg)
 
 # Authors
 * Alina Bakytbek kyzy -  GitHub anemone2002
