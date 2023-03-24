@@ -43,13 +43,13 @@ To run the application, you need to have the following installed on your machine
 MySQL or PostgreSQL
 
 # Port
-http://localhost:8089
+http://localhost:8085
 
 # Home Page
 ![This is an image](Library/libralinhome.jpg)
 
 # Available Books
-![This is an image](Library/ibralinavibooks.jpg)
+![This is an image](Library/libralinavibooks.jpg)
 
 # My Books
 ![This is an image](Library/addbook.jpg)
@@ -57,5 +57,5 @@ http://localhost:8089
 # Add new Books
 ![This is an image](Library/newbook.jpg)
 
-# Authors
+# Author
 * Alina Bakytbek kyzy -  GitHub anemone2002
