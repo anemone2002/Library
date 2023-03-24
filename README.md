@@ -41,3 +41,6 @@ To run the application, you need to have the following installed on your machine
 * Spring Data JPA
 * Hibernate
 MySQL or PostgreSQL
+
+# Authors
+* Alina Bakytbek kyzy -  GitHub anemone2002
