@@ -19,13 +19,25 @@ To run the application, you need to have the following installed on your machine
 # CRUD Operations
 * The application allows librarians to perform CRUD operations on both Book and Borrower entities. They can create new books or borrowers, view details of existing ones, update their information or delete them from the system.
 
-Thymeleaf Template Engine
-Thymeleaf is used as the view template engine in the application. It provides a clean and concise syntax for writing HTML templates and allows for easy integration with Spring.
+# Thymeleaf Template Engine
+*Thymeleaf is used as the view template engine in the application. It provides a clean and concise syntax for writing HTML templates and allows for easy integration with Spring.
 
-Spring Data JPA
-Spring Data JPA is used to interact with the database. It provides a high-level abstraction over the underlying database and makes it easy to perform CRUD operations.
+# Spring Data JPA
+*Spring Data JPA is used to interact with the database. It provides a high-level abstraction over the underlying database and makes it easy to perform CRUD operations.
 
-Hibernate
-Hibernate is used as the ORM tool in the application. It provides a powerful and flexible framework for mapping Java objects to database tables.
+# Hibernate
+* Hibernate is used as the ORM tool in the application. It provides a powerful and flexible framework for mapping Java objects to database tables.
 
+# MySQL or PostgreSQL
+* The application can be configured to use either MySQL or PostgreSQL as the database. The choice of database can be made by editing the application.properties file.
+# User Interface
+* The user interface is designed to be easy to use and responsive. It provides librarians with a simple and intuitive way to manage books and borrowers in the system.
+
+# Built With
+* Spring Framework
+* Spring Boot
+* Maven
+* Thymeleaf
+* Spring Data JPA
+* Hibernate
 MySQL or PostgreSQL
